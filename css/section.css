@@ -1,0 +1,81 @@
+*{margin: 0px;padding: 0px;box-sizing: border-box;}
+body{height:auto;}
+header{width: 100%;height: 500px;background-repeat: no-repeat;background-size: cover;background-image: url("https://i0.wp.com/www.frugalfeeds.com.au/wp-content/uploads/2017/08/Family-McClassics-Box.png");}
+.nav{width: 100%;height: 70px;background-color: #1F2232;}
+.nav img{float: left;padding:10px;}
+.navbar{height: 70px;background-color: transparent;float: left;}
+.navbar li{width: 200px;list-style-type: none;float: left;}
+li a{display: block;color: white;text-align: center;font-family: cursive;text-decoration: none;padding-top:10%; }
+ul li:hover ul{visibility: visible;}
+ul li ul{list-style-type: none;visibility: hidden;position: relative;display: block;margin-top: 27px;}
+ul li ul li{border:1px solid lightgray;width: 200px;background: #E0E2DB;}
+ul li ul li a{color: black;padding-top:10px;padding-bottom: 5px;}
+ul li ul li:hover{background-color: #D2D4C8;}
+li>img{width:50px;height: 50px;}
+header div{width: 600px;text-align: center;margin:160px 0 0 400px; }
+header div p{padding: 10px;line-height: 25px;font-weight:bold;font-size:20px;color: white}
+header div button{width: 150px;height: 30px;background-color:#bf0c0c;border-radius: 20px;color: white;}
+main div span{font-family:cursive;font-size:20px;} main div{text-align: center;margin-top: 30px;}
+main section:first-of-type{width: 95%;margin: 30px 2.5% 0px;height: 630px;}
+main section:first-of-type div{width: 23.5%;margin: 0px 8px;float: left;height: auto;}
+main section:first-of-type div h3{font-family: 'Karma';font-size: 24px;font-weight: 400;}
+main section:first-of-type div p{margin-top: 10px;line-height:25px;font-size: 15px;word-spacing: 1px;}
+main section:nth-of-type(2){width: 95%;margin: 30px 2.5% 0px;height: 630px;}
+main section:nth-of-type(2) div{width: 23.5%;margin: 0px 8px;float: left;height: auto;}
+main section:nth-of-type(2) div h3{font-family: 'Karma';font-size: 24px;font-weight: 400;}
+main section:nth-of-type(2) div p{margin-top: 10px;line-height:25px;font-size: 15px;word-spacing: 1px;}
+
+main section:nth-of-type(3){width: 95%;margin: 30px 2.5% 0px;height: 620px;}
+main section:nth-of-type(3) div{width: 50%;height: 450px;margin: auto;}
+main section:nth-of-type(3) div video{width: 100%;height: 100%;}
+main section:nth-of-type(3) div:first-child video source{width: 100%;}
+main section:nth-of-type(3)  div:nth-child(2){text-align: center;width: 90%;word-spacing: 1px;margin-top: 15px;}
+main section:nth-of-type(3)  div:nth-child(2) p:first-of-type{margin-top: 10px;font-family: 'karma';font-size: 16px;}
+main section:nth-of-type(3)  div:nth-child(2) p:nth-of-type(2){margin-top: 10px;font-family: 'karma';font-size: 16px;}
+
+
+main section:nth-of-type(4) form{height: 220px;background-color: black;width: 80%;margin-left: 10%;}
+main section:nth-of-type(4) div:first-child{padding-top:10px;font-family: 'karma';color: #FB3640;font-weight: bold;}
+
+
+main section:nth-of-type(4) table,th,td{
+	 border: 1px solid black;border-collapse: collapse;font-family: 'karma';
+}
+main section:nth-of-type(4) th,td{text-align: center;padding: 3px;}
+main section:nth-of-type(4) th{background-color: #5995ED;}
+main section:nth-of-type(4) td:first-child{background-color:#FFAD05;color: white;}
+main section:nth-of-type(4) td:nth-child(2){background-color:#7CAFC4;color: white;}
+main section:nth-of-type(4) td:nth-child(3){background-color:#044389;color: white;}
+
+/*main section:nth-of-type(4) form div:nth-child(2) input{padding: 5px;background-color: yellow;margin: 5px;}*/
+
+
+/*footer div i{font-size: 16px;border-radius: 50%;border: 1px solid #ffb900;color:#FB3640;padding: 5px;margin-right: 5px;}*/
+footer div{margin:10px 0px 0px 44%;padding-bottom: 10px;}
+footer{width: 100%;background-color: black;margin: 0px;}
+
+
+
+
+el akwad ele fe comment fo2 de b9b2 inline enme external l2a leeeh?!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
